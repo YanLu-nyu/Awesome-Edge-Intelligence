@@ -19,7 +19,7 @@ Edge computing refers to the enabling techniques allowing computation to be perf
 ### Labs
 1. [Elijah and Gabriel (CMU)](http://elijah.cs.cmu.edu/)
 2. [Machine Learning on the Edge (MSR)](https://www.microsoft.com/en-us/research/project/machine-learning-edge/)
-## Research Opportunities
+## Research opportunities
 ### Model compression and optimization for specific hardware
 #### General approaches for compression and optimization
 1. Reduce the complexity of inputs.

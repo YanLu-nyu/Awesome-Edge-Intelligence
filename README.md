@@ -20,7 +20,7 @@ Edge computing refers to the enabling techniques allowing computation to be perf
 ### Model compression and optimization for specific hardware
 [1] [Xu et al. DeepCache: Principled Cache for Mobile Deep Vision. MobiCom'18.](https://arxiv.org/pdf/1712.01670.pdf)
 ### Optimization on heterogeneous hardware
-[1] [Cao et al. Efficient and Effective Sparse LSTM on FPGA with Bank-Balanced Sparsity. FPGA'19.](https://www.microsoft.com/en-us/research/uploads/prod/2019/05/FPGA2019_final.pdf)
+[1] [Cao et al. Efficient and Effective Sparse LSTM on FPGA with Bank-Balanced Sparsity. FPGA'19.](https://www.microsoft.com/en-us/research/uploads/prod/2019/05/FPGA2019_final.pdf)<br>
 [2] [Cao et al. SeerNet: Predicting Convolutional Neural Network Feature-Map Sparsity through Low-Bit Quantization. CVPR'19.](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cao_SeerNet_Predicting_Convolutional_Neural_Network_Feature-Map_Sparsity_Through_Low-Bit_Quantization_CVPR_2019_paper.pdf)
 ### Privacy and security (models and data)
 [1] [Lee et al. Occlumency: Privacy-preserving Remote Deep-learning Inference Using SGX. MobiCom'19.](http://soar.group/pubs/Occlumency.MobiCom19.pdf)

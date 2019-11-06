@@ -9,13 +9,16 @@ Edge computing refers to the enabling techniques allowing computation to be perf
 [1] [Satyanaryanan et al. The Case for VM-Based Cloudlets in Mobile Computing. IEEE Pervasive Computing 2009.](https://www.cs.cmu.edu/~satya/docdir/satya-ieeepvc-cloudlets-2009.pdf)<br>
 [2] [Zhi et al. Edge Intelligence: Paving the Last Mile of Artificial Intelligence with Edge Computing. Proceedings of the IEEE (2019).](https://arxiv.org/abs/1905.10083) <br>
 ## Researchers and Labs
+### Researchers
 1. [Victor Bahl (MSR)](https://www.microsoft.com/en-us/research/people/bahl/)
 2. [Mahadev Satyanarayanan (CMU)](http://www.cs.cmu.edu/~satya/)
-3. [Elijah and Gabriel (CMU LAB)](http://elijah.cs.cmu.edu/)
-4. [Ramon Caceres (Google)](http://www.kiskeya.net/ramon/#pubs)
-5. [Nigel Davies (Lancaster University, U.K.)](https://www.lancaster.ac.uk/people-profiles/nigel-davies)
-6. [Roy Want (Google)](http://www.roywant.com/cv/vita.htm)
-7. [Yunxin Liu (MSRA)](https://www.microsoft.com/en-us/research/people/yunliu/)
+3. [Ramon Caceres (Google)](http://www.kiskeya.net/ramon/#pubs)
+4. [Nigel Davies (Lancaster University, U.K.)](https://www.lancaster.ac.uk/people-profiles/nigel-davies)
+5. [Roy Want (Google)](http://www.roywant.com/cv/vita.htm)
+6. [Yunxin Liu (MSRA)](https://www.microsoft.com/en-us/research/people/yunliu/)
+### Labs
+1. [Elijah and Gabriel (CMU LAB)](http://elijah.cs.cmu.edu/)
+2. [Machine Learning on the Edge (MSR)](https://www.microsoft.com/en-us/research/project/machine-learning-edge/)
 ## Research Opportunites
 ### Model compression and optimization for specific hardware
 #### General approaches for compression and optimization

@@ -28,8 +28,11 @@ Edge computing refers to the enabling techniques allowing computation to be perf
 [2] [Han et al. MCDNN: An approximation-based execution framework for deep stream processing under resource constraints. MobiSys'16.](https://homes.cs.washington.edu/~arvind/papers/mcdnn.pdf)<br>
 [3] [Huynh et al. DeepMon: Mobile GPU-based Deep Learning Framework for Continuous Vision Applications. MobiSys'17.](https://nsr.cse.buffalo.edu/mobisys_2017/papers/pdfs/mobisys17-paper07.pdf)
 ### Optimization on heterogeneous hardware
-[1] [Cao et al. Efficient and Effective Sparse LSTM on FPGA with Bank-Balanced Sparsity. FPGA'19.](https://www.microsoft.com/en-us/research/uploads/prod/2019/05/FPGA2019_final.pdf)<br>
-[2] [Cao et al. SeerNet: Predicting Convolutional Neural Network Feature-Map Sparsity through Low-Bit Quantization. CVPR'19.](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cao_SeerNet_Predicting_Convolutional_Neural_Network_Feature-Map_Sparsity_Through_Low-Bit_Quantization_CVPR_2019_paper.pdf)
+[1] [Liu et al. On-Demand Deep Model Compression for Mobile Devices: A Usage-Driven Model Selection Framework. MobiSys'18.](https://tik-old.ee.ethz.ch/file//79a7dd6f6370f809e6180c0746232283/mobisys18-liu.pdf)<br>
+[2] [Fany et al. NestDNN: Resource-Aware Multi-Tenant On-Device Deep Learning for Continuous Mobile Vision. MobiCom'18.](https://arxiv.org/abs/1810.10090)<br>
+[3] [Cao et al. Efficient and Effective Sparse LSTM on FPGA with Bank-Balanced Sparsity. FPGA'19.](https://www.microsoft.com/en-us/research/uploads/prod/2019/05/FPGA2019_final.pdf)<br>
+[4] [Cao et al. SeerNet: Predicting Convolutional Neural Network Feature-Map Sparsity through Low-Bit Quantization. CVPR'19.](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cao_SeerNet_Predicting_Convolutional_Neural_Network_Feature-Map_Sparsity_Through_Low-Bit_Quantization_CVPR_2019_paper.pdf)<br>
+[5] [Lee et al. MobiSR: Efficient On-Device Super-Resolution through Heterogeneous Mobile Processors. MobiCom'19.](https://arxiv.org/pdf/1908.07985.pdf)<br>
 ### Privacy and security (models and data)
 [1] [Lee et al. Occlumency: Privacy-preserving Remote Deep-learning Inference Using SGX. MobiCom'19.](http://soar.group/pubs/Occlumency.MobiCom19.pdf)
 ### Continual and collaborative learning

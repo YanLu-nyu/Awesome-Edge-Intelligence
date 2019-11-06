@@ -17,7 +17,7 @@ Edge computing refers to the enabling techniques allowing computation to be perf
 5. [Roy Want (Google)](http://www.roywant.com/cv/vita.htm)
 6. [Yunxin Liu (MSRA)](https://www.microsoft.com/en-us/research/people/yunliu/)
 ### Labs
-1. [Elijah and Gabriel (CMU LAB)](http://elijah.cs.cmu.edu/)
+1. [Elijah and Gabriel (CMU)](http://elijah.cs.cmu.edu/)
 2. [Machine Learning on the Edge (MSR)](https://www.microsoft.com/en-us/research/project/machine-learning-edge/)
 ## Research Opportunites
 ### Model compression and optimization for specific hardware

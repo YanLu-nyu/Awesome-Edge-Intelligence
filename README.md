@@ -18,7 +18,15 @@ Edge computing refers to the enabling techniques allowing computation to be perf
 7. [Yunxin Liu (MSRA)](https://www.microsoft.com/en-us/research/people/yunliu/)
 ## Research Opportunites
 ### Model compression and optimization for specific hardware
-[1] [Xu et al. DeepCache: Principled Cache for Mobile Deep Vision. MobiCom'18.](https://arxiv.org/pdf/1712.01670.pdf)
+#### General approaches for compression and optimization
+1. Reduce the complexity of inputs.
+2. Pre-computations on independent workload.
+3. Share architectures with many CV tasks.
+4. Cache in video processing.
+#### Paper
+[1] [Xu et al. DeepCache: Principled Cache for Mobile Deep Vision. MobiCom'18.](https://arxiv.org/pdf/1712.01670.pdf)<br>
+[2] [Han et al. MCDNN: An approximation-based execution framework for deep stream processing under resource constraints. MobiSys'16.](https://homes.cs.washington.edu/~arvind/papers/mcdnn.pdf)<br>
+[3] [Huynh et al. DeepMon: Mobile GPU-based Deep Learning Framework for Continuous Vision Applications. MobiSys'17.](https://nsr.cse.buffalo.edu/mobisys_2017/papers/pdfs/mobisys17-paper07.pdf)
 ### Optimization on heterogeneous hardware
 [1] [Cao et al. Efficient and Effective Sparse LSTM on FPGA with Bank-Balanced Sparsity. FPGA'19.](https://www.microsoft.com/en-us/research/uploads/prod/2019/05/FPGA2019_final.pdf)<br>
 [2] [Cao et al. SeerNet: Predicting Convolutional Neural Network Feature-Map Sparsity through Low-Bit Quantization. CVPR'19.](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cao_SeerNet_Predicting_Convolutional_Neural_Network_Feature-Map_Sparsity_Through_Low-Bit_Quantization_CVPR_2019_paper.pdf)
@@ -27,4 +35,5 @@ Edge computing refers to the enabling techniques allowing computation to be perf
 ### Continual and collaborative learning
 [1] [Lu et al. Collaborative Learning between Cloud and End Devices: An Empirical Study on Location Prediction. SEC'19.](https://www.microsoft.com/en-us/research/publication/collaborative-learning-between-cloud-and-end-devices-an-empirical-study-on-location-prediction/)
 ## Applications
-[1] [Cao et al. DeQA: On-Device Question Answering. MobiSys'19.](https://awk.ai/assets/deqa.pdf)
+[1] [Cao et al. DeQA: On-Device Question Answering. MobiSys'19.](https://awk.ai/assets/deqa.pdf)<br>
+[2] [Zeng et al. MobileDeepPill: A Small-Footprint Mobile Deep Learning System for Recognizing Unconstrained Pill Images. MobiSys'17.](https://www.egr.msu.edu/~mizhang/papers/2017_MobiSys_MobileDeepPill.pdf)<br>

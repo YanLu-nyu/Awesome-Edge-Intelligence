@@ -5,6 +5,8 @@ Intelligent Edge computing research notes
 Edge computing refers to the enabling techniques allowing computation to be performed at the edge of the network on downstream data on behalf of cloud services and upstream data on behalf of IoT services. Here we define “edge” as any computing and network resources along the path between data sources and cloud data centers. <br>
 [1] [Shi et al. Edge Computing: Vision and Challenges. IEEE Internet of Things Journal 2016.](https://www.researchgate.net/publication/303890546_Edge_Computing_Vision_and_Challenges) 
 ### Edge intelligence (todo)
+## Video
+1. [Intelligent Edge Session (Microsoft Faculty Summit, 2018).](https://youtu.be/EbRQMncZ5XY)
 ## Survey
 [1] [Satyanaryanan et al. The Case for VM-Based Cloudlets in Mobile Computing. IEEE Pervasive Computing 2009.](https://www.cs.cmu.edu/~satya/docdir/satya-ieeepvc-cloudlets-2009.pdf)<br>
 [2] [Zhi et al. Edge Intelligence: Paving the Last Mile of Artificial Intelligence with Edge Computing. Proceedings of the IEEE (2019).](https://arxiv.org/abs/1905.10083) <br>
@@ -16,6 +18,7 @@ Edge computing refers to the enabling techniques allowing computation to be perf
 4. [Nigel Davies (Lancaster University, U.K.)](https://www.lancaster.ac.uk/people-profiles/nigel-davies)
 5. [Roy Want (Google)](http://www.roywant.com/cv/vita.htm)
 6. [Yunxin Liu (MSRA)](https://www.microsoft.com/en-us/research/people/yunliu/)
+7. [Umakishore Ramachandran (Gatech)](https://www.cc.gatech.edu/~rama/)
 ### Labs
 1. [Elijah and Gabriel (CMU)](http://elijah.cs.cmu.edu/)
 2. [Machine Learning on the Edge (MSR)](https://www.microsoft.com/en-us/research/project/machine-learning-edge/)

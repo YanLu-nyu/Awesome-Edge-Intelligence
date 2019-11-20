@@ -4,7 +4,9 @@ Intelligent Edge computing research notes
 ### Edge compution
 Edge computing refers to the enabling techniques allowing computation to be performed at the edge of the network on downstream data on behalf of cloud services and upstream data on behalf of IoT services. Here we define “edge” as any computing and network resources along the path between data sources and cloud data centers. <br>
 [1] [Shi et al. Edge Computing: Vision and Challenges. IEEE Internet of Things Journal 2016.](https://www.researchgate.net/publication/303890546_Edge_Computing_Vision_and_Challenges) 
-### Edge intelligence (todo)
+### Edge intelligence
+Edge intelligence describes a process where data is analyzed and aggregated in a spot close to where it is captured in a network. The intelligent edge, also described as “intelligence at the edge,” has important ramifications for distributed networks including the internet of things (IoT).<br>
+From [techopedia website](https://www.techopedia.com/definition/32559/intelligent-edge)
 ## Video
 1. [Intelligent Edge Session (Microsoft Faculty Summit, 2018).](https://youtu.be/EbRQMncZ5XY)
 ## Survey

@@ -12,6 +12,7 @@ From [techopedia website](https://www.techopedia.com/definition/32559/intelligen
 ## Survey
 [1] [Satyanaryanan et al. The Case for VM-Based Cloudlets in Mobile Computing. IEEE Pervasive Computing 2009.](https://www.cs.cmu.edu/~satya/docdir/satya-ieeepvc-cloudlets-2009.pdf)<br>
 [2] [Zhi et al. Edge Intelligence: Paving the Last Mile of Artificial Intelligence with Edge Computing. Proceedings of the IEEE (2019).](https://arxiv.org/abs/1905.10083) <br>
+[3] [Edge Intelligence for industry. White Paper of IEC (2019).](https://www.iec.ch/whitepaper/edgeintelligence/)
 ## Researchers and labs
 ### Researchers
 1. [Victor Bahl (MSR)](https://www.microsoft.com/en-us/research/people/bahl/)

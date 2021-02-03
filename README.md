@@ -37,7 +37,7 @@ From [techopedia website](https://www.techopedia.com/definition/32559/intelligen
 [2] [Huynh et al. DeepMon: Mobile GPU-based Deep Learning Framework for Continuous Vision Applications. In MobiSys'17.](https://nsr.cse.buffalo.edu/mobisys_2017/papers/pdfs/mobisys17-paper07.pdf)<br>
 [3] [Xu et al. DeepCache: Principled Cache for Mobile Deep Vision. In MobiCom'18.](https://arxiv.org/pdf/1712.01670.pdf)
 ### Optimization on heterogeneous resources
-#### awesome heterogeneous computing
+#### [awesome heterogeneous computing](https://github.com/YanLu-nyu/Awesome-Edge-Intelligence/blob/master/awesome-heterogeneous-computing.md)
 In this note, I collect some useful resources (book, blog, paper and github) for heterogeneous computing. From my perspective, learning heterogeneous computing will help us understand the limitation of current optimization on heterogeneous resources deeply.
 #### Paper
 [1] [Liu et al. On-Demand Deep Model Compression for Mobile Devices: A Usage-Driven Model Selection Framework. In MobiSys'18.](https://tik-old.ee.ethz.ch/file//79a7dd6f6370f809e6180c0746232283/mobisys18-liu.pdf)<br>

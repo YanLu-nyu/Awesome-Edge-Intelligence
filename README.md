@@ -1,5 +1,5 @@
 # Edge Intelligence
-A curated list of research in edge intelligent systems. I also summarize some papers if I think they are really interesting. Insipred by [survey](https://arxiv.org/abs/1905.10083), I split papers into **5** research topics: 1) model compression and optimization for specific hardware; 2) optimization on heterogeneous resources; 3) privacy and security; 4) continual and collaborative learning; 5) applications. Among them, I'm very interested in the second and fourth topics. To guide other researchers and developers to read it efficiently, I also provide a curated list of learning resources on heteogeneous computing. 
+A curated list of research in edge intelligent systems. I also summarize some papers if I think they are really interesting. Insipred by [survey](https://arxiv.org/abs/1905.10083), I split papers into **5** research topics: 1) model compression and optimization for specific hardware; 2) optimization on heterogeneous resources; 3) privacy and security; 4) continual and collaborative learning; 5) applications. Among them, I'm very interested in the second and fourth one. To guide other researchers and developers to read it efficiently, I also provide a curated list of self-learning resources on heteogeneous computing. 
 ## Definitions
 ### Edge compution
 Edge computing refers to the enabling techniques allowing computation to be performed at the edge of the network on downstream data on behalf of cloud services and upstream data on behalf of IoT services. Here we define “edge” as any computing and network resources along the path between data sources and cloud data centers. <br>
@@ -33,20 +33,24 @@ From [techopedia website](https://www.techopedia.com/definition/32559/intelligen
 3. Share architectures with many CV tasks.
 4. Cache in video processing.
 #### Paper
-[1] [Han et al. MCDNN: An approximation-based execution framework for deep stream processing under resource constraints. MobiSys'16.](https://homes.cs.washington.edu/~arvind/papers/mcdnn.pdf)<br>
-[2] [Huynh et al. DeepMon: Mobile GPU-based Deep Learning Framework for Continuous Vision Applications. MobiSys'17.](https://nsr.cse.buffalo.edu/mobisys_2017/papers/pdfs/mobisys17-paper07.pdf)<br>
-[3] [Xu et al. DeepCache: Principled Cache for Mobile Deep Vision. MobiCom'18.](https://arxiv.org/pdf/1712.01670.pdf)
-### Optimization on heterogeneous hardware
-[1] [Liu et al. On-Demand Deep Model Compression for Mobile Devices: A Usage-Driven Model Selection Framework. MobiSys'18.](https://tik-old.ee.ethz.ch/file//79a7dd6f6370f809e6180c0746232283/mobisys18-liu.pdf)<br>
-[2] [Fany et al. NestDNN: Resource-Aware Multi-Tenant On-Device Deep Learning for Continuous Mobile Vision. MobiCom'18.](https://arxiv.org/abs/1810.10090)<br>
-[3] [Cao et al. Efficient and Effective Sparse LSTM on FPGA with Bank-Balanced Sparsity. FPGA'19.](https://www.microsoft.com/en-us/research/uploads/prod/2019/05/FPGA2019_final.pdf)<br>
-[4] [Cao et al. SeerNet: Predicting Convolutional Neural Network Feature-Map Sparsity through Low-Bit Quantization. CVPR'19.](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cao_SeerNet_Predicting_Convolutional_Neural_Network_Feature-Map_Sparsity_Through_Low-Bit_Quantization_CVPR_2019_paper.pdf)<br>
-[5] [Lee et al. MobiSR: Efficient On-Device Super-Resolution through Heterogeneous Mobile Processors. MobiCom'19.](https://arxiv.org/pdf/1908.07985.pdf)<br>
+[1] [Han et al. MCDNN: An approximation-based execution framework for deep stream processing under resource constraints. In MobiSys'16.](https://homes.cs.washington.edu/~arvind/papers/mcdnn.pdf)<br>
+[2] [Huynh et al. DeepMon: Mobile GPU-based Deep Learning Framework for Continuous Vision Applications. In MobiSys'17.](https://nsr.cse.buffalo.edu/mobisys_2017/papers/pdfs/mobisys17-paper07.pdf)<br>
+[3] [Xu et al. DeepCache: Principled Cache for Mobile Deep Vision. In MobiCom'18.](https://arxiv.org/pdf/1712.01670.pdf)
+### Optimization on heterogeneous resources
+[1] [Liu et al. On-Demand Deep Model Compression for Mobile Devices: A Usage-Driven Model Selection Framework. In MobiSys'18.](https://tik-old.ee.ethz.ch/file//79a7dd6f6370f809e6180c0746232283/mobisys18-liu.pdf)<br>
+[2] [Fany et al. NestDNN: Resource-Aware Multi-Tenant On-Device Deep Learning for Continuous Mobile Vision. In MobiCom'18.](https://arxiv.org/abs/1810.10090)<br>
+[3] [Cao et al. Efficient and Effective Sparse LSTM on FPGA with Bank-Balanced Sparsity. In FPGA'19.](https://www.microsoft.com/en-us/research/uploads/prod/2019/05/FPGA2019_final.pdf)<br>
+[4] [Cao et al. SeerNet: Predicting Convolutional Neural Network Feature-Map Sparsity through Low-Bit Quantization. In CVPR'19.](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cao_SeerNet_Predicting_Convolutional_Neural_Network_Feature-Map_Sparsity_Through_Low-Bit_Quantization_CVPR_2019_paper.pdf)<br>
+[5] [Lee et al. MobiSR: Efficient On-Device Super-Resolution through Heterogeneous Mobile Processors. In MobiCom'19.](https://arxiv.org/pdf/1908.07985.pdf)<br>
+[6] [Zhang et al. MobiPose: Real-Time Multi-PersonPose Estimation on Mobile Devices. In SenSys'20.](https://dl.acm.org/doi/10.1145/3384419.3430726#pill-authors__contentcon)<br>
+[7] [Jiang et al. Profiling and Optimizing Deep Learning Inference on Mobile GPUs. In APSys'20.](https://dl.acm.org/doi/10.1145/3409963.3410493)<br>
+[8] [Wu et al. EMO: Real-Time Emotion Recognition from Single-Eye Images for Resource-Constrained Eyewear Devices. In MobiSys'20.](https://dl.acm.org/doi/abs/10.1145/3386901.3388917)<br>
 ### Privacy and security (models and data)
-[1] [Lee et al. Occlumency: Privacy-preserving Remote Deep-learning Inference Using SGX. MobiCom'19.](http://soar.group/pubs/Occlumency.MobiCom19.pdf)
+[1] [Lee et al. Occlumency: Privacy-preserving Remote Deep-learning Inference Using SGX. In MobiCom'19.](http://soar.group/pubs/Occlumency.MobiCom19.pdf)
 ### Continual and collaborative learning
-[1] [Lu et al. Collaborative Learning between Cloud and End Devices: An Empirical Study on Location Prediction. SEC'19.](https://www.microsoft.com/en-us/research/publication/collaborative-learning-between-cloud-and-end-devices-an-empirical-study-on-location-prediction/)
+[1] [Lu et al. Collaborative Learning between Cloud and End Devices: An Empirical Study on Location Prediction. In SEC'19.](https://www.microsoft.com/en-us/research/publication/collaborative-learning-between-cloud-and-end-devices-an-empirical-study-on-location-prediction/)<br>
+[2] [Yang et al. Characterizing Impacts of Heterogeneity in Federated Learning upon Large-Scale Smartphone Data. In WWW'21.]
 ## Applications
-[1] [Zeng et al. MobileDeepPill: A Small-Footprint Mobile Deep Learning System for Recognizing Unconstrained Pill Images. MobiSys'17.](https://www.egr.msu.edu/~mizhang/papers/2017_MobiSys_MobileDeepPill.pdf)<br>
-[2] [Cao et al. DeQA: On-Device Question Answering. MobiSys'19.](https://awk.ai/assets/deqa.pdf)<br>
+[1] [Zeng et al. MobileDeepPill: A Small-Footprint Mobile Deep Learning System for Recognizing Unconstrained Pill Images. In MobiSys'17.](https://www.egr.msu.edu/~mizhang/papers/2017_MobiSys_MobileDeepPill.pdf)<br>
+[2] [Cao et al. DeQA: On-Device Question Answering. In MobiSys'19.](https://awk.ai/assets/deqa.pdf)<br>
 

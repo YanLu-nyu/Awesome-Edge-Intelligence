@@ -1,5 +1,5 @@
 # Edge Intelligence
-A curated list of research in edge intelligent systems. I also summarize some papers if I think they are really interesting. Insipred by [survey](https://arxiv.org/abs/1905.10083), I split papers into **5** research topics: 1) model compression and optimization for specific hardware; 2) optimization on heterogeneous resources; 3) privacy and security; 4) continual and collaborative learning; 5) applications. Among them, I'm very interested in the second and fourth one. To guide other researchers and developers to read it efficiently, I also provide a curated list of self-learning resources on heteogeneous computing. 
+A curated list of research in edge intelligent systems. I also summarize some papers if I think they are really interesting. Insipred by [survey](https://arxiv.org/abs/1905.10083), I split papers into **4** research topics: 1) model compression and optimization for specific hardware; 2) optimization on heterogeneous resources; 3) privacy and security; 4) continual and collaborative learning. Among them, I'm very interested in the second and fourth one. To guide other researchers and developers to read it efficiently, I also provide a curated list of self-learning resources on heteogeneous computing. 
 ## Definitions
 ### Edge compution
 Edge computing refers to the enabling techniques allowing computation to be performed at the edge of the network on downstream data on behalf of cloud services and upstream data on behalf of IoT services. Here we define “edge” as any computing and network resources along the path between data sources and cloud data centers. <br>
@@ -37,6 +37,9 @@ From [techopedia website](https://www.techopedia.com/definition/32559/intelligen
 [2] [Huynh et al. DeepMon: Mobile GPU-based Deep Learning Framework for Continuous Vision Applications. In MobiSys'17.](https://nsr.cse.buffalo.edu/mobisys_2017/papers/pdfs/mobisys17-paper07.pdf)<br>
 [3] [Xu et al. DeepCache: Principled Cache for Mobile Deep Vision. In MobiCom'18.](https://arxiv.org/pdf/1712.01670.pdf)
 ### Optimization on heterogeneous resources
+#### awesome heterogeneous computing
+In this note, I collect some useful resources (book, blog, paper and github) for heterogeneous computing. From my perspective, learning heterogeneous computing will help us understand the limitation of current optimization on heterogeneous resources deeply.
+#### Paper
 [1] [Liu et al. On-Demand Deep Model Compression for Mobile Devices: A Usage-Driven Model Selection Framework. In MobiSys'18.](https://tik-old.ee.ethz.ch/file//79a7dd6f6370f809e6180c0746232283/mobisys18-liu.pdf)<br>
 [2] [Fany et al. NestDNN: Resource-Aware Multi-Tenant On-Device Deep Learning for Continuous Mobile Vision. In MobiCom'18.](https://arxiv.org/abs/1810.10090)<br>
 [3] [Cao et al. Efficient and Effective Sparse LSTM on FPGA with Bank-Balanced Sparsity. In FPGA'19.](https://www.microsoft.com/en-us/research/uploads/prod/2019/05/FPGA2019_final.pdf)<br>

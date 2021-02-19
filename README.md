@@ -24,6 +24,7 @@ From [techopedia website](https://www.techopedia.com/definition/32559/intelligen
 5. [Roy Want (Google)](http://www.roywant.com/cv/vita.htm)
 6. [Yunxin Liu (MSRA)](https://www.microsoft.com/en-us/research/people/yunliu/)
 7. [Umakishore Ramachandran (Gatech)](https://www.cc.gatech.edu/~rama/)
+8. [Yanzhi Wang (NEU)](https://web.northeastern.edu/yanzhiwang/)
 ### Labs
 1. [Elijah and Gabriel (CMU)](http://elijah.cs.cmu.edu/)
 2. [Machine Learning on the Edge (MSR)](https://www.microsoft.com/en-us/research/project/machine-learning-edge/)
